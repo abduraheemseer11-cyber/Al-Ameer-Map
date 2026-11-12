@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Scanner Wireless</string>
+    <string name="app_name_en">Scanner Wireless</string>
+
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_devices">Devices</string>
+    <string name="nav_speed_test">Speed Test</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="scan">Scan</string>
+    <string name="scanning">Scanning…</string>
+    <string name="connected_devices">Connected devices</string>
+    <string name="network_status">Network Status</string>
+    <string name="network_name">Network name</string>
+    <string name="ip_address">IP address</string>
+    <string name="gateway">Gateway</string>
+    <string name="link_speed">Link speed</string>
+    <string name="signal_strength">Signal strength</string>
+    <string name="not_connected">Not connected to Wi-Fi</string>
+    <string name="speed_download_upload">Download / Upload Speed</string>
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+    <string name="latency">Latency</string>
+    <string name="mbps">Mbps</string>
+    <string name="ms">ms</string>
+    <string name="no_speed_yet">No test has been run yet</string>
+    <string name="security_alerts">Security Alerts</string>
+    <string name="no_alerts">No alerts, your network is safe</string>
+    <string name="new_devices_alert">%1$d new device(s) found on the network</string>
+
+    <string name="devices_empty">No devices yet. Tap “Scan” on the dashboard.</string>
+    <string name="mac_unavailable">MAC unavailable (Android restriction)</string>
+    <string name="mac_random">Random MAC</string>
+    <string name="vendor_unknown">Unknown vendor</string>
+    <string name="this_device">This device</string>
+    <string name="router_label">Router</string>
+    <string name="new_badge">New</string>
+
+    <string name="speed_start">Start test</string>
+    <string name="speed_testing_latency">Measuring latency…</string>
+    <string name="speed_testing_download">Measuring download…</string>
+    <string name="speed_testing_upload">Measuring upload…</string>
+    <string name="speed_done">Test complete</string>
+    <string name="speed_error">Test failed, check your internet connection</string>
+
+    <string name="tool_ping">Ping</string>
+    <string name="tool_traceroute">Traceroute</string>
+    <string name="tool_dns">DNS Lookup</string>
+    <string name="tool_port_scan">Port Scan</string>
+    <string name="tool_wol">Wake on LAN</string>
+    <string name="tool_camera_detect">Hidden Camera Detection</string>
+    <string name="hint_host">IP address or domain name</string>
+    <string name="hint_mac">MAC address, e.g. AA:BB:CC:DD:EE:FF</string>
+    <string name="hint_cameras">Checks discovered devices for RTSP ports and camera vendors</string>
+    <string name="run">Run</string>
+    <string name="clear">Clear</string>
+
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version 1.0.0</string>
+    <string name="settings_premium">Advanced features</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="premium_presence">Digital presence: who is home</string>
+    <string name="premium_block">Auto-block intruders</string>
+    <string name="premium_parental">Parental controls</string>
+    <string name="premium_bandwidth">Per-device bandwidth analysis</string>
+    <string name="premium_auto_speed">Scheduled speed tests and ISP reports</string>
+    <string name="premium_hotspot">Wi-Fi hotspot finder</string>
+</resources>

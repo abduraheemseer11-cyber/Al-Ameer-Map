@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ماسح الشبكة اللاسلكية</string>
+    <string name="app_name_en">Scanner Wireless</string>
+
+    <string name="nav_dashboard">لوحة القيادة</string>
+    <string name="nav_devices">قائمة الأجهزة</string>
+    <string name="nav_speed_test">اختبار السرعة</string>
+    <string name="nav_tools">الأدوات</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <string name="scan">فحص</string>
+    <string name="scanning">جارٍ الفحص…</string>
+    <string name="connected_devices">الأجهزة المتصلة</string>
+    <string name="network_status">حالة الشبكة</string>
+    <string name="network_name">اسم الشبكة</string>
+    <string name="ip_address">عنوان IP</string>
+    <string name="gateway">البوابة</string>
+    <string name="link_speed">سرعة الارتباط</string>
+    <string name="signal_strength">قوة الإشارة</string>
+    <string name="not_connected">غير متصل بشبكة Wi-Fi</string>
+    <string name="speed_download_upload">سرعة التحميل/الرفع</string>
+    <string name="download">التحميل</string>
+    <string name="upload">الرفع</string>
+    <string name="latency">زمن الاستجابة</string>
+    <string name="mbps">Mbps</string>
+    <string name="ms">ms</string>
+    <string name="no_speed_yet">لم يتم إجراء اختبار بعد</string>
+    <string name="security_alerts">تنبيهات الأمان</string>
+    <string name="no_alerts">لا توجد تنبيهات، شبكتك آمنة</string>
+    <string name="new_devices_alert">تم اكتشاف %1$d جهاز جديد على الشبكة</string>
+
+    <string name="devices_empty">لا توجد أجهزة بعد. اضغط «فحص» في لوحة القيادة.</string>
+    <string name="mac_unavailable">MAC غير متاح (قيود أندرويد)</string>
+    <string name="mac_random">MAC عشوائي</string>
+    <string name="vendor_unknown">مصنّع غير معروف</string>
+    <string name="this_device">هذا الجهاز</string>
+    <string name="router_label">الراوتر</string>
+    <string name="new_badge">جديد</string>
+
+    <string name="speed_start">ابدأ الاختبار</string>
+    <string name="speed_testing_latency">قياس زمن الاستجابة…</string>
+    <string name="speed_testing_download">قياس التحميل…</string>
+    <string name="speed_testing_upload">قياس الرفع…</string>
+    <string name="speed_done">اكتمل الاختبار</string>
+    <string name="speed_error">فشل الاختبار، تأكد من اتصالك بالإنترنت</string>
+
+    <string name="tool_ping">Ping</string>
+    <string name="tool_traceroute">تتبع المسار</string>
+    <string name="tool_dns">استعلام DNS</string>
+    <string name="tool_port_scan">فحص المنافذ</string>
+    <string name="tool_wol">تشغيل عن بُعد (WOL)</string>
+    <string name="tool_camera_detect">كشف الكاميرات المخفية</string>
+    <string name="hint_host">عنوان IP أو اسم النطاق</string>
+    <string name="hint_mac">عنوان MAC مثل AA:BB:CC:DD:EE:FF</string>
+    <string name="hint_cameras">يفحص الأجهزة المكتشفة بحثاً عن منافذ RTSP ومصنّعي الكاميرات</string>
+    <string name="run">تشغيل</string>
+    <string name="clear">مسح</string>
+
+    <string name="settings_about">حول التطبيق</string>
+    <string name="settings_version">الإصدار 1.0.0</string>
+    <string name="settings_premium">الميزات المتقدمة</string>
+    <string name="coming_soon">قريباً</string>
+    <string name="premium_presence">الحضور الرقمي: من في المنزل</string>
+    <string name="premium_block">حظر المتطفلين تلقائياً</string>
+    <string name="premium_parental">الرقابة الأبوية</string>
+    <string name="premium_bandwidth">تحليل استهلاك النطاق لكل جهاز</string>
+    <string name="premium_auto_speed">اختبارات سرعة مجدولة وتقارير المزوّد</string>
+    <string name="premium_hotspot">البحث عن نقاط Wi-Fi</string>
+</resources>
